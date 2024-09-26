@@ -13,3 +13,21 @@ In crime research, accurately identifying similar treatment and control areas is
 You can access a live version of this tool on HuggingFace Spaces:
 
 🤗 [Visit Our Live Application](https://huggingface.co/spaces/MOAPC-DS/Area_Similarity_and_Matching_Application)
+
+
+## Screenshots
+
+### Application Overview:
+![Application Overview](https://raw.githubusercontent.com/MOPAC-DS/area-similarity-and-matching-tool/refs/heads/main/Screenshots/1.%20AMST_Overview-1.png)
+![Application Overview](https://raw.githubusercontent.com/MOPAC-DS/area-similarity-and-matching-tool/refs/heads/main/Screenshots/2.%20AMST_Overview-2.png)
+
+### Area Matching:
+![Area Matching](https://raw.githubusercontent.com/MOPAC-DS/area-similarity-and-matching-tool/refs/heads/main/Screenshots/4.%20AMST_Matching.png)
+
+### Control-Treatment Matching:
+![Control-Treatment Matching](https://raw.githubusercontent.com/MOPAC-DS/area-similarity-and-matching-tool/refs/heads/main/Screenshots/5.%20AMST_Treatment.png)
+
+### Quality Assurance:
+![Distribution of Propensity Scores](https://raw.githubusercontent.com/MOPAC-DS/area-similarity-and-matching-tool/refs/heads/main/Screenshots/6.%20AMST_Quality-1.png)
+![Balance of Covariates](https://raw.githubusercontent.com/MOPAC-DS/area-similarity-and-matching-tool/refs/heads/main/Screenshots/7.%20AMST_Quality-2.png)
+![t-Test](https://raw.githubusercontent.com/MOPAC-DS/area-similarity-and-matching-tool/refs/heads/main/Screenshots/8.%20AMST_Quality-3.png)
