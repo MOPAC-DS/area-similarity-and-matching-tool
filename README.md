@@ -10,11 +10,6 @@ In crime research, accurately identifying similar treatment and control areas is
 
 ## Access the Application
 
-You can access a live version of this tool on HuggingFace Spaces.
+You can access a live version of this tool on HuggingFace Spaces:
 
-<iframe
-	src="https://moapc-ds-area-similarity-and-matching-application.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
+🤗 [Visit Our Live Application](https://huggingface.co/spaces/MOAPC-DS/Area_Similarity_and_Matching_Application)
